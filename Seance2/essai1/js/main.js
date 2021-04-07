@@ -5,4 +5,4 @@ $("p").animate({
     marginTop: '50px',
     color:'red',
     backgroundColor:'green'
-}, 5000);
+}, 2000);
